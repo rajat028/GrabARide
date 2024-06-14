@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640813983759",
+    "project_id": "grabaride-61f59",
+    "storage_bucket": "grabaride-61f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640813983759:android:8e88f58f2e2972ab231b7a",
+        "android_client_info": {
+          "package_name": "com.grabaride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LlbkphdcM8qFsV5eEudIOMzdf57xrw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
